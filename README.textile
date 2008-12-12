@@ -9,9 +9,14 @@ In your terminal go into the Textmate bundles directory:
 
 @cd~/Library/Application Support/TextMate/Bundles@
 
-Checkout the bundle from Gitorious:
+Checkout the bundle from Gitorious or Github:
 
 @git clone http://git.gitorious.org/html-ipsum/mainline.git HTML-ipsum.tmbundle@
+
+Or, if you prefer, from Github:
+
+@gitgit clone git://github.com/zmalltalker/html-ipsum.git HTML-ipsum.tmbundle@
+
 
 h2. Snippets
 

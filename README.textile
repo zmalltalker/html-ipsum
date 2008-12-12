@@ -1,0 +1,24 @@
+h1. HTML-ipsum
+
+This Textmate bundle is inspired by (a ripoff, rather), of http://html-ipsum.com/. It adds Textmate snippets for inserting random HTML markup into a document of your choice
+
+
+h2. Installation
+
+In your terminal go into the Textmate bundles directory:
+
+@cd~/Library/Application Support/TextMate/Bundles@
+
+Checkout the bundle from Gitorious:
+
+@git clone http://git.gitorious.org/html-ipsum/mainline.git HTML-ipsum.tmbundle@
+
+h2. Snippets
+
+* Long paragraph: -> longpara
+* Medium paragraph: -> @mediumpara@
+* Unordered list with short items: -> @shortul@
+* Unordered list with long items: -> @longul@
+* Ordered list with short items: -> @shortol@
+* Ordered list with long items: -> @longol@
+* Kitchen sink -> @kitchensink@

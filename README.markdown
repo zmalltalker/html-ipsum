@@ -13,7 +13,7 @@ In your terminal go into the Textmate bundles directory:
 
 Checkout the bundle from Gitorious:
 
-    git clone http://git.gitorious.org/html-ipsum/mainline.git HTML-ipsum.tmbundle
+    git clone http://gitorious.org/html-ipsum/mainline.git HTML-ipsum.tmbundle
 
 Or, if you prefer, from Github:
 

@@ -1,4 +1,5 @@
 HTML-ipsum
+Basic things which everyone should know
 ==========
 
 This Textmate bundle is inspired by (a ripoff, rather), of http://html-ipsum.com/. It adds Textmate snippets for inserting random HTML markup into a document of your choice
